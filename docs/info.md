@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a 2 bit calculator that can multiply,add or subtract 2 bit binary numbers.
 
 ## How to test
 
-Explain how to use your project
+In this user enters 2 numbers A and B of 2 bit each and select the operation at a time and it calculates the answer and display it on 7 segment display.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Dip switch and 7 segment display screen.
