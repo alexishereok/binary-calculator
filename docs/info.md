@@ -13,7 +13,7 @@ This is a 2 bit calculator that can multiply,add or subtract 2 bit binary number
 
 ## How to test
 
-In this user enters 2 numbers A and B of 2 bit each and select the operation at a time and it calculates the answer and display it on 7 segment display.
+In this, user enters 2 numbers A and B of 2 bit each and select the operation at a time and it calculates the answer and display it on 7 segment display.(A should be greater than B to check subtract if not then do 2's compliment)
 
 ## External hardware
 
