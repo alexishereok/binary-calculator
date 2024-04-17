@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     395034561853515777      # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Binary Calculator"      # Project title
+  title:        "2 bit Binary Calculator"      # Project title
   author:       "Nikhil Jindal"      # Your name
   discord:      "nikhiljindal_"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "This is a 2 bit calculator that can multiply, subtract or even add 2 bit binary numbers."      # One line description of what your project does
